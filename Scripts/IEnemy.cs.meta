@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c3f72b888fc1b44b69e1c4da349d8ee9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - player: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - deathPoof: {fileID: 8928861326876033095, guid: f2dd46814da1b844ab4f6e86cc9f020f, type: 3}
+  - coffeecup: {fileID: 6698312457289692433, guid: 9ed3f15fcf5ae114c8fcff490aa538c3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
